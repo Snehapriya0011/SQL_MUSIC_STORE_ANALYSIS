@@ -4,5 +4,6 @@ This project is ABOUT how to analyze the music playlist database.
 * Postgre SQL
 * PgAdmin4
 
-Schema- Music Store Database 
+Schema- Music Store Database
+
 ![MusicDatabaseSchema]
