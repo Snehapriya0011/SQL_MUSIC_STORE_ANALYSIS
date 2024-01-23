@@ -6,4 +6,4 @@ This project is ABOUT how to analyze the music playlist database.
 
 Schema- Music Store Database
 
-![MusicDatabaseSchema]
+![MusicDatabaseSchema](C:\Users\HP\Downloads\MusicDatabaseSchema (1).png)
